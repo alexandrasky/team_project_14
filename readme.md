@@ -8,4 +8,4 @@ Matej Hlinka, Vinh Hoang The, Ondrej Ambruš, Patrik Velčický, Thomas Višvade
 ---
 
 ## Links
--
+- https://tim14.atlassian.net/jira/software/projects/PET/boards/1
